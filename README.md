@@ -9,4 +9,4 @@ Chrome extension for extracting Airtable Schema from the airtable.com/api page
 - Click on the extension icon near your address bar. It should show the schema in a popup.
 
 # Example
-![ExampleScreenshot](/ExampleScreenshot.png?raw=true "Airtable Schema")
+![ExampleScreenshot_1280X800](/ExampleScreenshot_1280X800.png?raw=true "Airtable Schema")
